@@ -1,0 +1,8 @@
+build/
+.build/
+*.class
+.idea/
+.vscode/
+*.iml
+*.log
+~$*
